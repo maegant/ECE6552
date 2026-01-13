@@ -17,9 +17,9 @@ description: >-
 --- -->
 <p style="text-align: center;" class="text-purple-000">Note: This website is actively being maintained.</p>
 
-This website contains the lecture notes and project files for the Georgia Tech course ME 6402 "Nonlinear Control Systems".
+This website contains the lecture notes and project files for the Georgia Tech course ME 6552 "Nonlinear Systems and Control".
 
-Below is the syllabus for the Spring 2025 term.
+Below is the syllabus for the Spring 2026 term.
 <iframe src="{{ site.baseurl }}/pdfs/syllabus.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/pdfs/syllabus.pdf">Download PDF</a>.
 </iframe>

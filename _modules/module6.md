@@ -2,13 +2,19 @@
 title: Optimization-Based Control
 ---
 
-Mar 25
-: [20 - Control Lyapunov Functions](pdfs/Lecture20.pdf)
+Mar 19
+: 19 - Control Lyapunov Functions
 
-Mar 27
-: [21 - A Primer on Convex Optimization](pdfs/Lecture21.pdf)
+Mar 24
+: No class - Spring Break
 
-Apr 1
-: [22 - Classes of Convex Optimization Problems](pdfs/Lecture22.pdf)
+Mar 26
+: No class - Spring Break
+
+Mar 31
+: 20 - A Primer on Convex Optimization
+
+Apr 2
+: 21 - Classes of Convex Optimization Problems
 
 

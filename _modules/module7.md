@@ -2,16 +2,23 @@
 title: Safety-Critical Control
 ---
 
-Apr 3
-: [23 - Barrier Functions](pdfs/Lecture23.pdf)
+Apr 7
+: 22 - Barrier Functions
 
-Apr 4
-: **HW 5 due**{: .label .label-red }
+Apr 9
+: 23 - Control Barrier Functions
 
-Apr 8
-: [24 - Control Barrier Functions](pdfs/Lecture24.pdf)
+Apr 14
+: 24 - Higher Order Control Barrier Functions
 
-Apr 10
-: [25 - Higher Order Control Barrier Functions](pdfs/Lecture25.pdf)
+Apr 15
+: **HW 4 due**{: .label .label-red }
+
+Apr 16
+: 25 - Exam 2 Review
+
+Apr 21
+: **Exam 2**{: .label .label-purple }
+
 
 

@@ -2,21 +2,21 @@
 title: Feedback Control
 ---
 
-Feb 27
-: [15 - Introduction to Feedback Linearization](pdfs/Lecture15.pdf)
+Mar 3
+: 14 - Introduction to Feedback Linearization
 
-Mar 4
-: [16 - Feedback Linearization 1](pdfs/Lecture16.pdf)
+Mar 5
+: 15 - Feedback Linearization 1
 
-Mar 6
-: [17 - Feedback Linearization 2](pdfs/Lecture17.pdf)
+Mar 10
+: 16 - Feedback Linearization 2
 
-Mar 11
-: [18 - Feedback Linearization 3](pdfs/Lecture18.pdf)
+Mar 12
+: 17 - Feedback Linearization 3
 
-Mar 13
-: [19 - Feedback Linearization 4](pdfs/Lecture19.pdf)
+Mar 17
+: 18 - Feedback Linearization 4
 
-Mar 14
-: **HW 4 due**{: .label .label-red }
+Mar 18
+: **HW 3 due**{: .label .label-red }
 

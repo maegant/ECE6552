@@ -2,32 +2,27 @@
 title: Lyapunov Stability
 ---
 
-Jan 30
-: [8 - Lyapunov Stability Theory](pdfs/Lecture8.pdf)
+Feb 5
+: 8 - Lyapunov Stability Theory
 
-Feb 4
-: [9 - LaSalle-Krasovskii Invariance Principle](pdfs/Lecture9.pdf)
+Feb 10
+: 9 - LaSalle-Krasovskii Invariance Principle
 
-Feb 6 
-: [10 - Lyapunov's Linearization](pdfs/Lecture10.pdf)
+Feb 12
+: 10 - Lyapunov's Linearization
 
-Feb 7
-: **HW 2 due**{: .label .label-red }
-
-Feb 11
-: [11 - Time-Varying Systems](pdfs/Lecture11.pdf)
-
-Feb 13
-: [12 - Time-Varying Systems and Lyapunov Design](pdfs/Lecture12.pdf)
+Feb 17
+: 11 - Time-Varying Systems
 
 Feb 18
-: [13 - Backstepping](pdfs/Lecture13.pdf)
+: **HW 2 due**{: .label .label-red }
 
-Feb 20
-: [14 - Midterm Review](pdfs/Lecture14.pdf)
+Feb 19
+: 12 - Backstepping
 
-Feb 21
-: **HW 3 due**{: .label .label-red }
+Feb 24
+: 13 - Exam 1 Review
 
-Feb 25
-: **Midterm Exam**{: .label .label-purple }
+Feb 26
+: **Exam 1**{: .label .label-purple }
+
