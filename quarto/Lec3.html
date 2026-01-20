@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2026-01-15">
 
-<title>Lecture 2 - Essentially Nonlinear Phenomena</title>
+<title>Lecture 3 - Hyperbolic Equilibria and Periodic Orbits</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -2331,7 +2331,7 @@ font-size: 0.85rem;
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lecture 2 - Essentially Nonlinear Phenomena</h1>
+<h1 class="title">Lecture 3 - Hyperbolic Equilibria and Periodic Orbits</h1>
 </div>
 
 
@@ -2377,8 +2377,8 @@ font-size: 0.85rem;
 <p>Let’s consider our pendulum linearized at the upright angle <span class="math display">
 \dot x = \begin{bmatrix} 0 &amp; 1 \\ \frac{g}{l} &amp; -\frac{k}{m} \end{bmatrix} x
 </span></p>
-<p>Let’s specifically take <span class="math inline">g = 9.8</span>, <span class="math inline">k = 0</span>, <span class="math inline">m = 1</span>, and <span class="math inline">l = 1</span>. The eigenvalues for the system are then <span class="math inline">\lambda_1 = 3.13</span>, <span class="math inline">\lambda_2 = -3.13</span>. From yesterday, we know that this yields a saddle node, but we can further illustrate this using the phase portrait:</p>
-<div id="37d72164" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="1">
+<p>Let’s specifically take <span class="math inline">g = 9.8</span>, <span class="math inline">k = 0</span>, <span class="math inline">m = 1</span>, and <span class="math inline">l = 1</span>. The eigenvalues for the system are then <span class="math inline">\lambda_1 = 3.13</span>, <span class="math inline">\lambda_2 = -3.13</span>. From Lecture 2, we know that this yields a saddle node, but we can further illustrate this using the phase portrait:</p>
+<div id="e580656f" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="1">
 <details class="code-fold">
 <summary>Show code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
@@ -2434,7 +2434,7 @@ P = \begin{bmatrix} v_1 &amp; v_2 \end{bmatrix} = \begin{bmatrix} 1 &amp; 1 \\ 3
 z = P^{-1} x
 </span> with the dynamics <span class="math display"> \dot{z}_1 = \lambda_1 z_1, \quad \dot{z} = \lambda_2 z_2</span></p>
 <p>This new system yields the phase portrait shown below</p>
-<div id="6eea334a" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="2">
+<div id="f65b2b73" class="cell" data-fig-height="4" data-fig-width="6" data-execution_count="2">
 <details class="code-fold">
 <summary>Show code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
@@ -2521,7 +2521,7 @@ Linearization has no eigenvalues on the imaginary axis.</p>
 A = \frac{\partial f}{\partial x}_{x = x^*} = \begin{bmatrix} 0 &amp; -1 \\ 1 &amp; 0 \end{bmatrix}
 </span></p>
 <p>However, this linearized system suggests that the equilbrium is a center. There is no continuous deformation that maps a center to that of the original nonlinear model (for <span class="math inline">a &gt; 0</span>).</p>
-<div id="f090bac0" class="cell" data-execution_count="3">
+<div id="27caf8b6" class="cell" data-execution_count="3">
 <details class="code-fold">
 <summary>Show code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
@@ -2655,7 +2655,7 @@ Nagumo, Mitio. 1942. <span>“<span>Ü</span>ber Die Lage Der Integralkurven Gew
     \end{bmatrix} = 0
 \end{align*}
 </span></p>
-<div id="c8352d0c" class="cell" data-execution_count="4">
+<div id="b0f6bc94" class="cell" data-execution_count="4">
 <details class="code-fold">
 <summary>Show code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
