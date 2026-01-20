@@ -3,7 +3,7 @@ title: Second-Order Systems
 ---
 
 Jan 20
-: [3 - Periodic Orbits in the Plane](pdfs/Lecture3.pdf)
+: [3 - Periodic Orbits in the Plane](pdfs/Lecture3.pdf) &nbsp;&nbsp;&nbsp;&nbsp;  {% include webicon.html url="quarto/Lec3.html" %} 
 
 Jan 22
 : 4 - Periodic Orbits in the Plane Continued
