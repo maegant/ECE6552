@@ -9,7 +9,7 @@ Jan 22
 : [4 - Periodic Orbits in the Plane Continued](pdfs/Lecture4.pdf) &nbsp;&nbsp;&nbsp;&nbsp;  {% include webicon.html url="quarto/Lec4.html" %} 
 
 Jan 27
-: 5 - Bifurcations
+: [5 - Bifurcations](pdfs/Lecture5.pdf) &nbsp;&nbsp;&nbsp;&nbsp;  {% include webicon.html url="quarto/Lec5.html" %}
 
 Jan 28
 : **HW 1 due**{: .label .label-red }
