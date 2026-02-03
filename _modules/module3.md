@@ -7,3 +7,4 @@ Jan 29
 
 Feb 3
 : [7 - Existence and Uniqueness Theorems for ODEs](quarto/Lec7.html) &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture7.pdf" %} 
+: [7b - Proof of Existence and Uniqueness Theorems for ODEs](pdfs/Lecture7b.pdf) 
