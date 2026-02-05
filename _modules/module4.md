@@ -3,7 +3,7 @@ title: Lyapunov Stability
 ---
 
 Feb 5
-: 8 - Lyapunov Stability Theory
+: 8 - Lyapunov Stability Theory &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture8.pdf" %} 
 
 Feb 10
 : 9 - LaSalle-Krasovskii Invariance Principle
