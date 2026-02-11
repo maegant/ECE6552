@@ -9,7 +9,7 @@ Feb 10
 : 9 - LaSalle-Krasovskii Invariance Principle &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture9.pdf" %}
 
 Feb 12
-: 10 - Lyapunov's Linearization
+: 10 - Lyapunov's Linearization &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture10.pdf" %}
 
 Feb 17
 : 11 - Time-Varying Systems
