@@ -12,7 +12,7 @@ Feb 12
 : [10 - Lyapunov's Linearization](quarto/Lec10.html) &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture10.pdf" %}
 
 Feb 17
-: 11 - Time-Varying Systems
+: 11 - Time-Varying Systems &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture11.pdf" %}
 
 Feb 18
 : **HW 2 due**{: .label .label-red }
