@@ -18,7 +18,7 @@ Feb 18
 : **HW 2 due**{: .label .label-red }
 
 Feb 19
-: 12 - Backstepping
+: 12 - Time-Varying Systems and Backstepping &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture12.pdf" %}
 
 Feb 24
 : 13 - Exam 1 Review
