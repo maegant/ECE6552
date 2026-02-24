@@ -21,7 +21,7 @@ Feb 19
 : 12 - Time-Varying Systems and Backstepping &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture12.pdf" %}
 
 Feb 24
-: 13 - Exam 1 Review
+: 13 - Exam 1 Review &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture13.pdf" %}
 
 Feb 26
 : **Exam 1**{: .label .label-purple }
