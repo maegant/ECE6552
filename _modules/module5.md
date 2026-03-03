@@ -3,7 +3,7 @@ title: Feedback Control
 ---
 
 Mar 3
-: 14 - Introduction to Feedback Linearization
+: 14 - Introduction to Feedback Linearization &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture14.pdf" %}
 
 Mar 5
 : 15 - Feedback Linearization 1
