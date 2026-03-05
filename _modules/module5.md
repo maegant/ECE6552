@@ -6,7 +6,7 @@ Mar 3
 : 14 - [Introduction to Feedback Linearization](quarto/Lec14.html) &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture14.pdf" %}
 
 Mar 5
-: 15 - Feedback Linearization 1
+: 15 - Feedback Linearization 1 &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture15.pdf" %}
 
 Mar 10
 : 16 - Feedback Linearization 2
