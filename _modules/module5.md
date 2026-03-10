@@ -9,7 +9,7 @@ Mar 5
 : 15 - Feedback Linearization 1 &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture15.pdf" %}
 
 Mar 10
-: 16 - Feedback Linearization 2
+: 16 - Feedback Linearization 2 &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture16.pdf" %}
 
 Mar 12
 : 17 - Feedback Linearization 3
