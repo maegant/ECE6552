@@ -15,7 +15,7 @@ Mar 12
 : 17 - Feedback Linearization 3 &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture17.pdf" %}
 
 Mar 17
-: 18 - Feedback Linearization 4
+: 18 - Feedback Linearization 4 &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture18.pdf" %}
 
 Mar 18
 : **HW 3 due**{: .label .label-red }

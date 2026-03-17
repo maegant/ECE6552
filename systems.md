@@ -37,7 +37,7 @@ description: Listing of Simulation Environments Used throughout the Course
         </div>
         <div class="col-md-4">
             <div class="card">
-                <a href="">
+                <a href="quarto/multirotor.html">
                     <img class="card-img-top" src="gifs/planar_multirotor.gif" alt="Multirotor">
                     <div class="card-body">
                         <h5 class="card-title">Planar Multirotor</h5>
