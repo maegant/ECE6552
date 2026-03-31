@@ -15,7 +15,8 @@ Mar 31
 : [19 - Control Lyapunov Functions] &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture19.pdf" %}
 
 Apr 2
-: [20 - Convex Optimization Preliminaries] &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture20.pdf" %}
-: 20/21 - Convex Optimization and CLF-QPs
+: [20 - Convex Optimization Preliminaries] 
+&nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture20.pdf" %}
+: [21 - Convex Optimization and CLF-QPs] &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture21.pdf" %}
 
 
