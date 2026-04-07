@@ -3,7 +3,7 @@ title: Safety-Critical Control
 ---
 
 Apr 7
-: 22 - Barrier Functions
+: 22 - Barrier Functions &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture22.pdf" %}
 
 Apr 9
 : 23 - Control Barrier Functions
