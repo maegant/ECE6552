@@ -6,7 +6,7 @@ Apr 7
 : 22 - Barrier Functions &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture22.pdf" %}
 
 Apr 9
-: 23 - Control Barrier Functions
+: 23 - Control Barrier Functions &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture23.pdf" %}
 
 Apr 14
 : 24 - Higher Order Control Barrier Functions
