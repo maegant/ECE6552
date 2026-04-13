@@ -9,7 +9,7 @@ Apr 9
 : [23 - Control Barrier Functions](quarto/Lec23.html) &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture23.pdf" %}
 
 Apr 14
-: 24 - Higher Order Control Barrier Functions
+: 24 - Higher Order Control Barrier Functions &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture24.pdf" %}
 
 Apr 15
 : **HW 4 due**{: .label .label-red }
