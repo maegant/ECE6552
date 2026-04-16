@@ -15,7 +15,7 @@ Apr 15
 : **HW 4 due**{: .label .label-red }
 
 Apr 16
-: 25 - Exam 2 Review
+: 25 - Exam Review &nbsp;&nbsp;&nbsp;&nbsp; {% include pdficon.html url="pdfs/Lecture25.pdf" %}
 
 Apr 21
 : **Exam 2**{: .label .label-purple }
